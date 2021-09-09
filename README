@@ -1,0 +1,6 @@
+Uses gmail service -> gmail account required
+
+Enter e-mail and app password in application.properties before launch
+
+Before running unit tests:
+Enter target e-mail address into comment specified lines
