@@ -1,3 +1,7 @@
+TASK: 
+"You have a payment order form paper example.
+Need to create REST endpoint which proceeds payment details and sends email about received payment"
+
 Uses gmail service -> gmail account required
 
 Enter e-mail and app password in application.properties before launch
