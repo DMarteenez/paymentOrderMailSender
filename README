@@ -2,6 +2,10 @@ TASK:
 "You have a payment order form paper example.
 Need to create REST endpoint which proceeds payment details and sends email about received payment"
 
+WHAT IT DOES:
+Receives REST API POST request with payment order details as a JSON, makes basic payment information checks 
+and sends an e-mail containing received payment information to a specified e-mail address
+
 Uses gmail service -> gmail account required
 
 Enter e-mail and app password in application.properties before launch
